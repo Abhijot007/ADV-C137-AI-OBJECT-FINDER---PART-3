@@ -1,0 +1,35 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 20px;
+    margin: 0px;
+}
+
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+
+.object-name-label {
+    color: white;
+    font-size: 20px;
+}
+
+.input {
+    width: 20%;
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 20%;
+}
+
+canvas {
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
